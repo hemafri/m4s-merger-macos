@@ -1,0 +1,15 @@
+.DS_Store
+dist/
+work/
+__pycache__/
+*.py[cod]
+*.m4s
+*.mp4
+*.m4a
+*.mov
+*.app/
+*.zip
+*.dmg
+.env
+.env.*
+verification.json
